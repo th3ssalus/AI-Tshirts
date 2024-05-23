@@ -1,3 +1,5 @@
+Disclaimer: Please make sure you understand what the code is doing before running it. Posting products to Etsy incurs charges and this code should not be run without oversight.
+
 If you are interested in print on demand and Etsy side hustles but don't have much spare time, this project is being developed to help you!
 Through the use of SmugMug (an image hosting website), printify (a print on demand service), and Etsy (a marketplace developed for small businesses) this project aims to simplify the admin side of 
 running a small business online, enabling creative people to spend more time focusing on creating cool things and less time on repetative boring processes.
@@ -5,7 +7,6 @@ running a small business online, enabling creative people to spend more time foc
 What does it do?
 At the moment this script successfully takes designs from your computer, uploads them to an image hosting website, transfers these images to your printify media library, and generates a t-shirt product with a price of $20
 for every design you submit, automatically, and in batch. It also then pushes the final products to the 'draft listings' of your Etsy store, ready to be activated as products!
-
 
 How does it work?
 The Setup
@@ -27,3 +28,4 @@ Current Pitfalls
     - Until then you will have to empty the folder each time you want to create new designs to prevent duplicates.
 - SmugMug is a paid service used for image hosting.
     - I am looking at free alternative for image hosting to avoid a payment requirement.
+ 
